@@ -1,0 +1,23 @@
+{
+  "name": "level-memoize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaGT/level-memoize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaGT/level-memoize/issues"
+  },
+  "homepage": "https://github.com/JavaGT/level-memoize#readme",
+  "dependencies": {
+    "level": "^5.0.1",
+    "object-hash": "^1.3.1"
+  }
+}
